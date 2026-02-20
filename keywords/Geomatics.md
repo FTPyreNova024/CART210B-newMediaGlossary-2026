@@ -20,8 +20,6 @@ In conclusion geomatics is the term of updating pre-existing fields with new tec
 useful for the modern age. Geomatics a very useful and needed domain that lets us get to know our world in a much more precise way that lets us 
 take care of it in a much more effective way. 
 
----
-
 [^1]: Bell, Scott. 2025. “Introduction: What Is Geomatics?” Introduction to Geomatics. Pressbooks. 2025. 
 https://www.saskoer.ca/introgeomatics/chapter/introduction-what-is-geomatics/.
 ‌
